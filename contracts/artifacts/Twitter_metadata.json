@@ -354,11 +354,11 @@
 	},
 	"sources": {
 		"contracts/1_Twitter.sol": {
-			"keccak256": "0x5d301dbab9dc05bbd8b1b8e33eb594d212b5c60b12ca5273ac398fb40de05654",
+			"keccak256": "0x2e6197cbd59e5e82d7b668fb8ef014c6c31eb6063ec85668070971bf15664f55",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://41f81492bde8adbca4b9052299073be0ae6c49f65707f96eb3667316b177cfcb",
-				"dweb:/ipfs/QmWGVUK52wW9sGgbotNvxnKyXmPpvL92h4WwJFAoqkyPW7"
+				"bzz-raw://c4944598296d0304b664a9d43f741d4e4f7b0e017a0cfd87a173eb6d270e49b4",
+				"dweb:/ipfs/QmVH8D6enZZgUsuB61woQX1sXZnKfxNExYXJc3xR9f7ow4"
 			]
 		}
 	},

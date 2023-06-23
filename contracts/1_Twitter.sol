@@ -16,7 +16,7 @@ contract Twitter {
         address to;
         string mssg;
         uint256 createdAt;
-    }
+    }  
 
     mapping(uint256 => Tweet) public tweets;
     mapping(address => uint256[]) public tweetsOf;
